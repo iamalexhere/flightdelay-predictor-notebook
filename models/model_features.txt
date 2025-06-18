@@ -1,0 +1,5 @@
+Categorical features:
+['MONTH', 'DAY_OF_WEEK', 'OP_UNIQUE_CARRIER', 'DEST', 'TIME_OF_DAY']
+
+Numerical features:
+['DISTANCE', 'CRS_ELAPSED_TIME', 'Temperature', 'Humidity', 'Wind Speed', 'Pressure', 'TAXI_OUT', 'DEP_HOUR', 'BAD_WEATHER', 'SPEED_RATIO']
